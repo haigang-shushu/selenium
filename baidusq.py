@@ -2,7 +2,6 @@ import time
 
 from selenium import webdriver
 
-
 # 自动化一个谷歌浏览器
 # 一定要Chrome
 # 如果没有配置驱动的环境变量，需要填写驱动的路径

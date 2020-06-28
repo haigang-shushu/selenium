@@ -33,7 +33,6 @@ MANIFEST
 *.manifest
 *.spec
 
-
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -105,11 +104,17 @@ celerybeat.pid
 # Environments
 .env
 .venv
+<<<<<<< HEAD
 .idea
 env/
 venv/
 ENV/
 idea/
+=======
+env/
+venv/
+ENV/
+>>>>>>> 36a63a1b1130b5fe2bafcbb6947a46515a2ba8fa
 env.bak/
 venv.bak/
 
